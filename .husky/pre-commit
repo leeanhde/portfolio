@@ -1,0 +1,3 @@
+# Run checking build before commit
+npm run build
+rm -rf dist
