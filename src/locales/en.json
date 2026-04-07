@@ -1,0 +1,9 @@
+{
+    "mainLayout": {
+    "headerMenuTaskConfiguration": "Task Configuration",
+    "headerMenuTaskAssignment": "Task Assignment",
+    "headerMenuUserManagement": "User Management",
+    "headerMenuLogout": "Logout",
+    "clickCheckInternetSpeed": "Click here to check your internet speed."
+  }
+}
